@@ -1,7 +1,5 @@
-Sure bro 👍 Here is the **full copy-paste `README.md` file**. Copy everything inside the code block and replace your current `README.md`.
 
-````markdown
-# AeroRescue-VTOL Mission Control
+# AeroRescue-VTOL Mission Control / NCB technology Solution 
 
 A software-only emergency VTOL drone mission simulator for **Smart India Hackathon 2026**.
 
